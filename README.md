@@ -41,7 +41,7 @@ Install the dependencies and devDependencies from the git clone command and the 
 
 ```sh
 sudo apt update
-git clone jndfbsbfsib
+git clone https://github.com/rexerf16/wireme.git
 cd wireme/
 pip install -r requirements.txt
 python3 wireme.py
