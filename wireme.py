@@ -310,5 +310,3 @@ try:
 
 except KeyboardInterrupt:
     print(Fore.LIGHTRED_EX + "\n KeyboardInterrupt !!")
-# except Exception:
-#     print("Somthing went worng !! please report the Error to the auther on https://github.com/rexerf16'")
