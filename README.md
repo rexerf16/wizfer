@@ -7,7 +7,7 @@
 wizfer is a simple Information Gathering Tool written in python  🕵️ 🔎
 ___
 # screenshots :
-![N](https://i.imgur.com/TWT2rga.jpg)
+![N](https://i.imgur.com/5pHN4cA.png)
 
 ## Features :
 
@@ -66,7 +66,7 @@ That should fix the problem if it doesn't Start Troubleshooting....
 |------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | V('0.1.0') | The first Minor release with basic features - Getting inforamtion from phone numbers - Scan open ports Using IP addresses - Ping any target Using IP/Website - Extracting information from IP addresses - Checking email validty  - Extracting Website information |
 | V('0.2.1')  | Minor relase with patch + changed the repository & the name of the project from ‘ wireme ‘ to ‘ wizfer ‘                                                                                                                                                           |
-| V('1.2.1') | **WORKING ON IT ......** " Major extra key features & major patches "                                                                                                                                                                                              |
+| V('1.2.1') | **WORKING ON IT ......** " Major extra key features "                                                                                                                                                                                              |
 
 # License
 MIT license
