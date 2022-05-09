@@ -1,10 +1,10 @@
-# wireme :
+# wizfer :
 ----
 
 ![N|](https://i.imgur.com/uVg7nVb.png)
 _____
-# what is wireme ?? :
-wireme is a simple Information Gathering Tool written in python  🕵️ 🔎
+# what is wizfer ?? :
+wizfer is a simple Information Gathering Tool written in python  🕵️ 🔎
 ___
 # screenshots :
 ![N](https://i.imgur.com/TWT2rga.jpg)
@@ -35,16 +35,16 @@ Termux
 
 ## Installation :
 
-wireme requires [Python3](https://www.python.org/downloads/release/python-3810/) v3.8.10+ to run.
+wizfer requires [Python3](https://www.python.org/downloads/release/python-3810/) v3.8.10+ to run.
 also You need [pip](https://pypi.org/project/pip/) v20.0.2+ to run.
 Install the dependencies and devDependencies from the git clone command and the requirtment file then start the tool.
 
 ```sh
 sudo apt update
-git clone https://github.com/rexerf16/wireme.git
-cd wireme/
+git clone https://github.com/rexerf16/wizfer.git
+cd wizfer/
 pip install -r requirements.txt
-python3 wireme.py
+python3 wizfer.py
 ```
 # Technical problems that you might face :
 You might face this Error while using the tool :
