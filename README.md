@@ -1,8 +1,8 @@
 # wizfer :
-----
 
-![N|](https://i.imgur.com/CwftCU3.png)
-_____
+
+![N|](https://i.imgur.com/q0opL5C.png)
+
 # what is wizfer ?? :
 wizfer is a simple Information Gathering Tool written in python  🕵️ 🔎
 ___
